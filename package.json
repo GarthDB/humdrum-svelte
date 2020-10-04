@@ -46,8 +46,15 @@
   "directories": {
     "test": "test"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Garth Braithwaite <garthdb@gmail.com> (http://garthdb.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GarthDB/humdrum-svelte/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GarthDB/humdrum-svelte.git"
+  },
   "dependencies": {
     "humdrum-ui": "^1.0.3"
   }
